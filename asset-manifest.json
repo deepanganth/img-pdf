@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/img-pdf/static/css/main.f8f9598f.chunk.css",
+    "main.js": "/img-pdf/static/js/main.db9f0a70.chunk.js",
+    "main.js.map": "/img-pdf/static/js/main.db9f0a70.chunk.js.map",
+    "runtime-main.js": "/img-pdf/static/js/runtime-main.3acfe1f7.js",
+    "runtime-main.js.map": "/img-pdf/static/js/runtime-main.3acfe1f7.js.map",
+    "static/css/2.bf5f1ca6.chunk.css": "/img-pdf/static/css/2.bf5f1ca6.chunk.css",
+    "static/js/2.9d145aca.chunk.js": "/img-pdf/static/js/2.9d145aca.chunk.js",
+    "static/js/2.9d145aca.chunk.js.map": "/img-pdf/static/js/2.9d145aca.chunk.js.map",
+    "static/js/3.68abc59a.chunk.js": "/img-pdf/static/js/3.68abc59a.chunk.js",
+    "static/js/3.68abc59a.chunk.js.map": "/img-pdf/static/js/3.68abc59a.chunk.js.map",
+    "index.html": "/img-pdf/index.html",
+    "static/css/2.bf5f1ca6.chunk.css.map": "/img-pdf/static/css/2.bf5f1ca6.chunk.css.map",
+    "static/css/main.f8f9598f.chunk.css.map": "/img-pdf/static/css/main.f8f9598f.chunk.css.map",
+    "static/js/2.9d145aca.chunk.js.LICENSE.txt": "/img-pdf/static/js/2.9d145aca.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/img-pdf/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.59329567.jpg": "/img-pdf/static/media/logo.59329567.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3acfe1f7.js",
+    "static/css/2.bf5f1ca6.chunk.css",
+    "static/js/2.9d145aca.chunk.js",
+    "static/css/main.f8f9598f.chunk.css",
+    "static/js/main.db9f0a70.chunk.js"
+  ]
+}
